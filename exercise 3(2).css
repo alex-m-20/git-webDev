@@ -1,0 +1,42 @@
+.section1{
+    background-color: lightblue;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
+.section2{
+    background-color: lightcoral;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
+.section3{
+    background-color: lightblue;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
+.section4{
+    background-color: lightcoral;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
+.section5{
+    background-color: lightblue;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
+.section6{
+    background-color: lightcoral;
+    width: 33.33%;
+    height: 350px;
+    display: block;
+    float: left;
+}
